@@ -1,0 +1,22 @@
+{
+
+    "cp2term01": [
+        { "class": "Database", "credit": 6, "description": "Database Management", "Prof": "Nicole", "Image": "assets/images/nikolai_ivanov.jpg" }
+
+    ],
+
+    "cp2term02": [
+        { "class": "SQL", "credit": 6, "description": "Database Inplpementation", "Prof": "Satyendra", "Image": "assets/images/satyendra_narayan.jpg" }
+
+    ],
+
+    "cp2term03": [
+        { "class": "Node.js", "credit": 6, "description": "Database Sql", "Prof": "M Tatla", "Image": "assets/images/maninder_kaur.jpg" }
+
+    ],
+
+    "cp2term04": [
+        { "class": "MongoDb", "credit": 6, "description": "Database Project", "Prof": "Prem Parashar", "Image": "assets/images/prem_parashar.jpg" }
+
+    ]
+}

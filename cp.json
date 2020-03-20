@@ -1,0 +1,22 @@
+{
+
+    "cpterm01": [
+        { "class": "C", "credit": 6, "description": "OOP - Java 1", "Prof": "Nicole", "Image": "assets/images/satyendra_narayan.jpg" }
+
+    ],
+
+    "cpterm02": [
+        { "class": "HTML", "credit": 6, "description": "OOP - Java 2", "Prof": "Satyendra", "Image": "assets/images/satyendra_narayan.jpg" }
+
+    ],
+
+    "cpterm03": [
+        { "class": "JavaScript", "credit": 6, "description": "Web Programming", "Prof": "M Tatla", "Image": "assets/images/maninder_kaur.jpg" }
+
+    ],
+
+    "cpterm04": [
+        { "class": "Java", "credit": 6, "description": "Networking", "Prof": "J Dafoe", "Image": "assets/images/john_dafoe.jpg" }
+
+    ]
+}
